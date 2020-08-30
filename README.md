@@ -23,3 +23,9 @@ inspired by [amitness](https://github.com/amitness/learning/)
 #### Airflow
 - [ ] [Article: Getting started with Airflow locally and remotely](https://towardsdatascience.com/getting-started-with-airflow-locally-and-remotely-d068df7fcb4)
 - [ ] [Article: Machine Learning in Production using Apache Airflow](https://towardsdatascience.com/machine-learning-in-production-using-apache-airflow-91d25a4d8152)
+
+#### Spark
+- [ ] [Course: Learn Spark at Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) #free
+
+#### Building APIs
+- [ ] [Article: FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)
