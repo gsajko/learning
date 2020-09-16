@@ -13,6 +13,9 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [ ] [Article: Data Science Meets Devops MLOps with Jupyter, Git, & Kubernetes](https://blog.kubeflow.org/mlops/)
 
 
+## A/B Testing
+- [ ] [Course: Udacity A/B Testing](https://www.udacity.com/course/ab-testing--ud257) #free
+
 ## MLOps
 - [ ] [Video: What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
 
@@ -29,4 +32,9 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [ ] [Course: Learn Spark at Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) #free
 
 #### Building APIs
-- [ ] [Article: FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)
+- [x] [Article: FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)
+
+
+## Attention Economy
+- [ ] [Book: The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt](https://www.amazon.com/Hype-Machine-Disrupts-Elections-Health/dp/0525574514)
+- [ ] [Movie: The Social Dilemma](https://www.rottentomatoes.com/m/the_social_dilemma)
