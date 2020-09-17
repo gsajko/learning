@@ -25,6 +25,8 @@ inspired by [amitness](https://github.com/amitness/learning/)
 
 ### Tools
 
+#### Docker
+- [ ] [Article: Docker 101: Fundamentals & The Dockerfile](https://itnext.io/docker-101-fundamentals-the-dockerfile-b33b59d0f14b?gi=a7ded733c6d2)
 #### Airflow
 - [ ] [Article: Getting started with Airflow locally and remotely](https://towardsdatascience.com/getting-started-with-airflow-locally-and-remotely-d068df7fcb4)
 - [ ] [Article: Machine Learning in Production using Apache Airflow](https://towardsdatascience.com/machine-learning-in-production-using-apache-airflow-91d25a4d8152)
