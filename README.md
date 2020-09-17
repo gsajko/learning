@@ -18,6 +18,7 @@ inspired by [amitness](https://github.com/amitness/learning/)
 
 ## MLOps
 - [ ] [Video: What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
+- [x] [Article: Keeping your ML model in shape with Kafka, Airflow and MLFlow](https://medium.com/vantageai/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow-143d20024ba6)
 
 ### MLOps - testing
 - [ ] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
