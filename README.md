@@ -40,4 +40,7 @@ inspired by [amitness](https://github.com/amitness/learning/)
 
 ## Attention Economy
 - [ ] [Book: The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt](https://www.amazon.com/Hype-Machine-Disrupts-Elections-Health/dp/0525574514)
-- [ ] [Movie: The Social Dilemma](https://www.rottentomatoes.com/m/the_social_dilemma)
+- [x] [Movie: The Social Dilemma](https://www.rottentomatoes.com/m/the_social_dilemma)
+
+## Personalization
+- [ ] [Talk: An Approach to Data Quality for Netflix Personalization Systems](https://databricks.com/session_na20/an-approach-to-data-quality-for-netflix-personalization-systems)
