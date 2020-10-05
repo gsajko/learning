@@ -20,6 +20,9 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [ ] [Video: What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
 - [x] [Article: Keeping your ML model in shape with Kafka, Airflow and MLFlow](https://medium.com/vantageai/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow-143d20024ba6)
 
+## Personalization
+- [ ] [Talk: An Approach to Data Quality for Netflix Personalization Systems](https://databricks.com/session_na20/an-approach-to-data-quality-for-netflix-personalization-systems)
+
 ### MLOps - testing
 - [ ] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 
@@ -42,5 +45,5 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [ ] [Book: The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt](https://www.amazon.com/Hype-Machine-Disrupts-Elections-Health/dp/0525574514)
 - [x] [Movie: The Social Dilemma](https://www.rottentomatoes.com/m/the_social_dilemma)
 
-## Personalization
-- [ ] [Talk: An Approach to Data Quality for Netflix Personalization Systems](https://databricks.com/session_na20/an-approach-to-data-quality-for-netflix-personalization-systems)
+## Writing
+- [ ] [Video: How to Grow Your Business by Writing: Sahil Lavingia + David Perell](https://www.youtube.com/watch?v=grXrGaT7DLw&feature=youtu.be)
