@@ -44,6 +44,26 @@ inspired by [amitness](https://github.com/amitness/learning/)
 ## Attention Economy
 - [ ] [Book: The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt](https://www.amazon.com/Hype-Machine-Disrupts-Elections-Health/dp/0525574514)
 - [x] [Movie: The Social Dilemma](https://www.rottentomatoes.com/m/the_social_dilemma)
+- [x] [Designing organizations for an information-rich world](https://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33748)
+- [x] [The Economics of Attention A History of Economic Thought Perspective](https://journals.openedition.org/oeconomia/1139?lang=en#tocto2n1)
+- [ ] [The World Beyond Your Head: On Becoming an Individual in an Age of Distraction](https://www.amazon.com/World-Beyond-Your-Head-Distraction-ebook/dp/B00O0G1A6S)
+    - [ ] - Introduction: Attention as A Cultural Problem 
 
 ## Writing
 - [ ] [Video: How to Grow Your Business by Writing: Sahil Lavingia + David Perell](https://www.youtube.com/watch?v=grXrGaT7DLw&feature=youtu.be)
+
+
+
+## 🚧 Books
+
+### Machine Learning Bookcamp
+- [x] Introduction to Machine Learning
+- [ ] 🚧 Machine learning for regression 
+- [ ] Machine Learning for classification
+- [ ] Evaluation metrics for classification
+- [ ] Deploying machine learning models
+- [ ] Decision trees and ensemble learning
+- [ ] Neural networks and deep learning
+- [ ] Serving deep learning models
+- [ ] Working with Texts
+- [ ] Getting Training Data
