@@ -49,11 +49,33 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [x] [Designing organizations for an information-rich world](https://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33748)
 - [x] [The Economics of Attention A History of Economic Thought Perspective](https://journals.openedition.org/oeconomia/1139?lang=en#tocto2n1)
 - [ ] [The World Beyond Your Head: On Becoming an Individual in an Age of Distraction](http://www.matthewbcrawford.com/new-page-1-1)
-    - [ ] Introduction: Attention as A Cultural Problem 
+    - [ ] 🚧 Introduction: Attention as A Cultural Problem 
+
+## Private Computation
+
+### Data
+- [ ] [Lecture: Personal Data Warehouses: Reclaiming Your Data](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/)
+
+### The Private AI
+- [ ] [The Private AI Series](https://courses.openmined.org/)
+    - [ ] Privacy and Society [Beginner, 6 hours]
+    - [ ] Foundations of Private Computation [Intermediate, 60 hours]
+    - [ ] Federate Learning Across Enterprises [Intermediate, 40 hours]
+    - [ ] Federated Learning on Mobile [Intermediate, 40 hours]
+
 
 ## Writing
 - [ ] [Video: How to Grow Your Business by Writing: Sahil Lavingia + David Perell](https://www.youtube.com/watch?v=grXrGaT7DLw&feature=youtu.be)
 
+## Putting ML in Production
+- [ ] [Course: Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/)
+    - [ ] 🚧 Product
+    - [ ] Data
+    - [ ] Modeling
+    - [ ] Scripting
+    - [ ] Tuning
+    - [ ] API
+    - [ ] Production
 
 
 ## 🚧 Books
@@ -69,3 +91,8 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [ ] Serving deep learning models
 - [ ] Working with Texts
 - [ ] Getting Training Data
+
+
+
+
+
