@@ -57,7 +57,10 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [ ] [Lecture: Personal Data Warehouses: Reclaiming Your Data](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/)
 
 ### The Private AI
-- [ ] [The Private AI Series](https://courses.openmined.org/)
+- [ ] [Video: Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon](https://www.youtube.com/watch?v=NJBBE_SN90A)  
+- [ ] [Video: Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)
+- [ ] [Course: Udacity: Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
+- [ ] [The Private AI Series](https://courses.openmined.org/) starting on [[2021-01-02]]. 
     - [ ] Privacy and Society [Beginner, 6 hours]
     - [ ] Foundations of Private Computation [Intermediate, 60 hours]
     - [ ] Federate Learning Across Enterprises [Intermediate, 40 hours]
@@ -69,8 +72,8 @@ inspired by [amitness](https://github.com/amitness/learning/)
 
 ## Putting ML in Production
 - [ ] [Course: Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/)
-    - [ ] 🚧 Product
-    - [ ] Data
+    - [x] Product
+    - [ ] 🚧 Data
     - [ ] Modeling
     - [ ] Scripting
     - [ ] Tuning
