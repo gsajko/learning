@@ -16,6 +16,19 @@ inspired by [amitness](https://github.com/amitness/learning/)
 ## A/B Testing
 - [ ] [Course: Udacity A/B Testing](https://www.udacity.com/course/ab-testing--ud257) #free
 
+## ML in Production
+- [ ] [Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)
+### Putting ML in Production
+- [ ] [Course: Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/)
+    - [x] Product
+    - [ ] 🚧 Data
+    - [ ] Modeling
+    - [ ] Scripting
+    - [ ] Tuning
+    - [ ] API
+    - [ ] Production
+
+
 ## MLOps
 - [ ] [Video: What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
 - [x] [Article: Keeping your ML model in shape with Kafka, Airflow and MLFlow](https://medium.com/vantageai/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow-143d20024ba6)
@@ -70,15 +83,6 @@ inspired by [amitness](https://github.com/amitness/learning/)
 ## Writing
 - [ ] [Video: How to Grow Your Business by Writing: Sahil Lavingia + David Perell](https://www.youtube.com/watch?v=grXrGaT7DLw&feature=youtu.be)
 
-## Putting ML in Production
-- [ ] [Course: Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/)
-    - [x] Product
-    - [ ] 🚧 Data
-    - [ ] Modeling
-    - [ ] Scripting
-    - [ ] Tuning
-    - [ ] API
-    - [ ] Production
 
 
 ## 🚧 Books
