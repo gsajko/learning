@@ -12,6 +12,19 @@ inspired by [amitness](https://github.com/amitness/learning/)
 - [x] [Article: VSCode on Google Colab](https://amitness.com/vscode-on-colab/) 
 - [ ] [Article: Data Science Meets Devops MLOps with Jupyter, Git, & Kubernetes](https://blog.kubeflow.org/mlops/)
 
+## SQL
+- [ ] [Select Star SQL](https://selectstarsql.com/)
+- [ ] [The SQL Murder Mystery](https://mystery.knightlab.com/)
+- [ ] [Bill Karwin: SQL Antipatterns - Avoiding the Pitfalls of Database Programming](https://pragprog.com/titles/bksqla/sql-antipatterns/)
+## Python
+- [ ] [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- [ ] [Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)
+- [ ] [A Curious Course on Coroutines and Concurrency](https://www.dabeaz.com/coroutines/Coroutines.pdf)
+
+## Other
+- [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [ ] [Jeroen Janssens: Data Science at the Command Line, 2e](https://www.datascienceatthecommandline.com/2e/)
+
 
 ## A/B Testing
 - [ ] [Course: Udacity A/B Testing](https://www.udacity.com/course/ab-testing--ud257) #free
