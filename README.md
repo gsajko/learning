@@ -100,7 +100,7 @@ inspired by [amitness](https://github.com/amitness/learning/)
 
 ## 🚧 Books
 
-### Machine Learning Bookcamp
+### [Machine Learning Bookcamp Book](https://www.manning.com/books/machine-learning-bookcamp)
 - [x] Introduction to Machine Learning
 - [x] Machine learning for regression 
 - [ ] 🚧 Machine Learning for classification
